@@ -1,6 +1,6 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
+		"host": "https://aternos.org/server/",
 		"port": "ZX2103.aternos.me",
 		"username": "24/7"
 	},
